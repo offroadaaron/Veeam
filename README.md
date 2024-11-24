@@ -46,3 +46,5 @@ The script outputs a notification indicating the location of the generated repor
 The script disconnects from the Veeam Backup & Replication Server once the report is generated.
 Overall Purpose:
 This script is designed to automate the process of generating a backup status report for virtual machines, by retrieving data from both vCenter and Veeam Backup & Replication, and displaying the results in a clear, interactive HTML format. The report helps track the status of VM backups and allows users to quickly check the availability of restore points for each VM.
+
+![image](https://github.com/user-attachments/assets/7c847aad-2fd0-4b63-b425-0ad122537f7c)
