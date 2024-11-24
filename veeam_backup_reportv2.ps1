@@ -1,3 +1,5 @@
+# Created by offroadaaron
+
 # Load the configuration from the JSON file
 $configFilePath = "C:\Users\al\Documents\config.json"  # Change this to the path of your config.json file
 $config = Get-Content -Path $configFilePath | ConvertFrom-Json
