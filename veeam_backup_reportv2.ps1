@@ -1,4 +1,7 @@
 # Created by offroadaaron
+# Permissions
+# vCenter - Read-Only
+# Veeam - Backup Viewer
 
 # Load the configuration from the JSON file
 $configFilePath = "C:\Users\al\Documents\config.json"  # Change this to the path of your config.json file
