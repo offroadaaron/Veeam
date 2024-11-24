@@ -1,0 +1,12 @@
+{
+    "vCenter": {
+        "server": "vcenter_server",
+        "username": "your_vcenter_username",
+        "password": "your_vcenter_password"
+    },
+    "Veeam": {
+        "server": "veeam_server",
+        "username": "your_veeam_username",
+        "password": "your_veeam_password"
+    }
+}
